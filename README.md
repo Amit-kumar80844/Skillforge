@@ -5,9 +5,9 @@ Skillforge is a modern, production-ready Android application built with Kotlin a
 ## 📱 Screenshots
 
 <div align="center">
-  <img src="https://placehold.co/300x600/0f1720/ffffff?text=Home+Screen" width="30%">
-  <img src="https://placehold.co/300x600/0f1720/ffffff?text=Course+Detail" width="30%">
-  <img src="https://placehold.co/300x600/0f1720/ffffff?text=Lesson+Player" width="30%">
+  <img width="30%" height="2400" alt="Screenshot_2026-07-10-16-45-31-29_89c2dedce46fd7a1c429fd5f0a725587 jpg" src="https://github.com/user-attachments/assets/21b29d77-73fa-4535-a8d5-488329757aa1" />
+<img width="30%" height="2400" alt="Screenshot_2026-07-10-16-45-42-61_89c2dedce46fd7a1c429fd5f0a725587 jpg" src="https://github.com/user-attachments/assets/7bb9b85f-74b3-4355-b0a7-89c2b2988f14" />
+<img width="30%" height="2400" alt="Screenshot_2026-07-10-16-45-37-34_89c2dedce46fd7a1c429fd5f0a725587 jpg" src="https://github.com/user-attachments/assets/0fe14409-c09a-4b48-b71b-7323a3765c01" />
 </div>
 
 ## 🏗️ Architecture
